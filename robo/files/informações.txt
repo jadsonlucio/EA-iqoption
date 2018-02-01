@@ -1,0 +1,4 @@
+operacoes_url=C:/Users/Pain panda/PycharmProjects/roboclick/files
+operacoes_name=arquivo.txt
+saldo_url=C:/Users/Pain panda/PycharmProjects/roboclick/files
+saldo_name=saldo.txt
